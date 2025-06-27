@@ -5,8 +5,8 @@ const app = express();
 const port = 3000;
 
 const BOT_USERNAME = 'BotMinecraft';                 // Bot's name
-const SERVER_HOST = 'example.aternos.me';            // Server address
-const SERVER_PORT = 12345;                           // Server port
+const SERVER_HOST = 'SIGMA13242.aternos.me';            // Server address
+const SERVER_PORT = 50171;                           // Server port
 const LOGIN_PASSWORD = 'Botpassword';                // Password used for /register and /login
 
 let behaviorIntervals = []; 
